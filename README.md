@@ -4,8 +4,7 @@
 
 ## Descripción
 Este codigo te permite obtener en un archivo de texto a través de un bot en telegram, los SSID y passwords guardados en windows
-![1](https://github.com/Kariel97/telegram_wifi_paswords/assets/84166289/a18673ac-d791-4b8b-b905-00300cf8c353)
-
+>![uno](https://github.com/Kariel97/telegram_wifi_paswords/assets/84166289/83deadab-ee14-4940-a056-73c09fcfea14)
 
 ### Instalación
 
